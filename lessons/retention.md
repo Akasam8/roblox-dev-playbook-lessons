@@ -1,0 +1,20 @@
+# Retention
+
+<!-- Lessons are added by the daily routine. Format: see ROUTINE.md -->
+
+## Bring them back
+
+- **Leave players with unfinished business.** When a session ends there should be a clear reason to return: something nearly unlocked, a timer finishing, a goal half done. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704836092024917279), 2026-11-05
+- **Design for friend groups.** Add moments that make players invite friends, compete, show off, laugh or create natural social drama. Simulate a friend group playing: which moments would they talk about at school, and which would they forget? Strengthen the forgettable parts. (x9) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703273171163696414), 2026-11-01; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703971414121991454), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703731745371327775), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704363191261793566), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704366315489807646), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704368939932912927), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704185021590015263), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704805358753139999), 2026-11-05; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705143276524915999), 2026-11-06
+
+## Measure drop-off
+
+- **Instrument an onboarding funnel to find exactly where players quit.** Log each early step from code to Creator Hub funnels (e.g. loading done, tutorial done, first round started/finished, first shop offer), then fix the biggest drop first. Real examples: a 60% drop at match queueing, and a 31.5% drop at a walk-speed purchase step in the lobby. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690368004525247775), 2026-09-27; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691164198843272479), 2026-09-30; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7699314829823200533), 2026-10-22; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705143276524915999), 2026-11-06
+
+## Long-term progression
+
+- **Check what still excites a day-30 player.** Simulate a kid who has played every day for a month (and an easily distracted kid) to find what has gone repetitive, then make sure there is always a clear next goal to work toward. (x3) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7702874885009181983), 2026-10-31; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704370260027198750), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704805358753139999), 2026-11-05
+
+## Reading analytics
+
+- **Low D1 retention with long playtime means fix the first minutes.** If day-1 retention is poor but average session is high (one launch: about 21 min across 188 new users), the mid/late game works and onboarding is the problem. Check the dashboards daily, and especially when CCU spikes or crashes, to learn what caused it. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690375469467831583), 2026-09-28; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690776334439648543), 2026-09-29; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691159115577543966), 2026-09-30; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7700094055648218399), 2026-10-24
