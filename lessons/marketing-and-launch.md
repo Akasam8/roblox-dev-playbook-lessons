@@ -8,7 +8,7 @@
 
 ## Algorithm
 
-- **Roblox promotes on stats, not spend.** If retention and engagement metrics aren't rising, ads or money won't make Roblox push the game. Fix the numbers first. — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7704510782293200159), 2026-11-05
+- **Roblox promotes on stats, not spend.** If retention and engagement metrics aren't rising, ads or money won't make Roblox push the game. Fix the numbers first. (x2) — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7701063760420687135), 2026-10-26; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7704510782293200159), 2026-11-05
 
 ## Ads and sponsors
 
@@ -16,7 +16,7 @@
 
 ## Thumbnails and icons
 
-- **Reverse-engineer winning thumbnails.** Study thumbnails and icons of high-CCU games in your genre, ask AI what makes them convert (curiosity gap, contrast, faces/reactions, one clear subject) and to write a prompt in that style, then generate several original options and rank them. The concept matters more than the tool: AI-made thumbnails can match Blender ones. (x6) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7687812237339282718), 2026-09-21; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7697083306663480606), 2026-10-16; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7701049235768200449), 2026-10-26; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7704135345041853727), 2026-11-04; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705581721470700831), 2026-11-07; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705681799992659230), 2026-11-08
+- **Reverse-engineer winning thumbnails.** Study thumbnails and icons of high-CCU games in your genre, ask AI what makes them convert (curiosity gap, contrast, faces/reactions, one clear subject) and to write a prompt in that style, then generate several original options and rank them. The concept matters more than the tool: AI-made thumbnails can match Blender ones. (x9) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7687812237339282718), 2026-09-21; @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7689503728868658463), 2026-09-25; @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7689924526343245087), 2026-09-26; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7697083306663480606), 2026-10-16; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7701049235768200449), 2026-10-26; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7704135345041853727), 2026-11-04; @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7705120015850245407), 2026-11-06; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705581721470700831), 2026-11-07; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705681799992659230), 2026-11-08
 
 ## Positioning
 
@@ -49,6 +49,7 @@
 ## Experience page
 
 - **Make the experience page as good as the game.** Players judge the page before the gameplay. Show real gameplay, the core loop and the most fun moments with SFX in the video; research search terms for the title, description and tags; and simulate a kid choosing between your thumbnail and 20 competitors. A weak page is a common cause of high CTR but low plays. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7697456444118977822), 2026-10-17; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703271860871400735), 2026-11-01; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703733319661407519), 2026-11-03; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7705547265804356885), 2026-11-07
+- **Put an emoji in your game name.** An emoji in the title helps the game stand out in discovery rows alongside a strong thumbnail. — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7689503728868658463), 2026-09-25
 
 ## Social media
 

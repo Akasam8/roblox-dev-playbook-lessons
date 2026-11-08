@@ -9,7 +9,7 @@
 
 ## Measure drop-off
 
-- **Instrument an onboarding funnel to find exactly where players quit.** Log each early step from code to Creator Hub funnels (e.g. loading done, tutorial done, first round started/finished, first shop offer), then fix the biggest drop first. Real examples: a 60% drop at match queueing, and a 31.5% drop at a walk-speed purchase step in the lobby. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690368004525247775), 2026-09-27; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691164198843272479), 2026-09-30; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7699314829823200533), 2026-10-22; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705143276524915999), 2026-11-06
+- **Instrument an onboarding funnel to find exactly where players quit.** Log each early step from code to Creator Hub funnels (e.g. loading done, tutorial done, first round started/finished, first shop offer), then fix the biggest drop first. Real examples: a 60% drop at match queueing, and a 31.5% drop at a walk-speed purchase step in the lobby. (x5) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690368004525247775), 2026-09-27; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691164198843272479), 2026-09-30; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7699314829823200533), 2026-10-22; @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7701063760420687135), 2026-10-26; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705143276524915999), 2026-11-06
 
 ## Long-term progression
 
