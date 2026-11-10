@@ -26,6 +26,7 @@
 
 - **Replace text-wall tutorials with show-don't-tell guidance.** Kids won't read paragraphs on how to play and leave instantly; guide them by doing, with arrows and prompts. — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7701029681012739358), 2026-10-26
 - **Skip the loading screen unless the game truly needs one.** A loading screen adds friction before the first moment of fun; only keep it for genuinely complex games. — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7701029681012739358), 2026-10-26
+- **Use skippable NPC guides instead of text tutorials.** Have an NPC avatar walk players through the game, react to what they do and teach as they play; keep it quick, interactive and skippable so kids can jump straight into the fun. Can be built by prompting an AI agent. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7706325182645931294), 2026-11-09
 
 ## Feel
 

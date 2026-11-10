@@ -42,6 +42,7 @@
 ## Tool choice
 
 - **Creator found Claude Opus 5.5 strongest for Roblox assets.** After spending about $400 in a month on Claude and Codex, one dev found both strong at code but preferred Claude Opus 5.5 with Claude Design for models and visual effects. *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7695214687801183518), 2026-10-11
+- **Fable 5.2 is pricier than Opus 5.5; use it selectively.** Fable 5.2 became available on all paid Claude plans and tops benchmarks, but burns usage much faster than Opus 5.5. Stay on Opus 5.5 for most tasks and switch to Fable for hard problems or to review finished work. *(Time-sensitive: model pricing and plans change.)* — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7706280685874515231), 2026-11-09
 
 ## Skill gaps
 
