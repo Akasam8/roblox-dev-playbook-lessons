@@ -11,6 +11,7 @@
 ## Playtesting with AI
 
 - **Have Claude playtest as a specific new player, then iterate.** Tell the agent to role-play a first-time player of your target age (most Roblox players are young, roughly 6–12), try the main actions, and list everything confusing, boring or broken; fix the biggest friction and re-run. Vary the persona (impatient kid, non-techy adult) and treat it as a supplement to real playtests, not a replacement. (x6) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7690419663771110686), 2026-09-28; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7693076345286331678), 2026-10-05; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7702808498140237086), 2026-10-31; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7702834109256699167), 2026-10-31; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7702870530046758174), 2026-10-31; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705143276524915999), 2026-11-06
+- **Research why a genre is fun before planning the game.** Have the agent study what makes a reference game (e.g. Valorant, Counter-Strike) fun, plan your own game from that research, build it, then have it playtest as a real player and fix confusing, broken or unfun parts until it feels right. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7706652586702589214), 2026-11-10
 
 ## Agent setup
 
