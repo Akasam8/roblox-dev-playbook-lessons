@@ -1,0 +1,144 @@
+up-and-coming | 1 | 10772946647 | Do Not Stop. | 17393 | 14515 | 1609 | 90 | Survival
+up-and-coming | 2 | 10773926254 | Bloody Ragdoll Physics | 30596 | 11574 | 1948 | 86 | Simulation
+up-and-coming | 3 | 10773618503 | Hyper Realistic Ragdoll | 33126 | 5302 | 571 | 90 | Simulation
+up-and-coming | 4 | 10773259496 | Survive a Psycho | 2383 | 13269 | 805 | 94 | Survival
+up-and-coming | 5 | 10772281976 | Unstable SMP FFA | 25928 | 12280 | 2140 | 85 | Action
+up-and-coming | 6 | 10770730129 | Ragdoll Soccer | 37902 | 4061 | 1501 | 73 | Sports & Racing
+up-and-coming | 7 | 10770932189 | Barber Simulator | 14598 | 5764 | 785 | 88 | Simulation
+up-and-coming | 8 | 10773244575 | Draw the Other Half! | 3529 | 528 | 292 | 64 | Party & Casual
+up-and-coming | 9 | 10773416193 | Voxel Wars | 10825 | 3327 | 892 | 79 | Shooter
+up-and-coming | 10 | 10773912080 | The Ditch Hotel | 4644 | 5167 | 594 | 90 | Action
+up-and-coming | 11 | 10769671316 | Survive Your Ideas | 51123 | 53998 | 7270 | 88 | Survival
+up-and-coming | 12 | 10773380485 | Ragdoll Realism | 8432 | 6710 | 1665 | 80 | Simulation
+up-and-coming | 13 | 10771928551 | Cozy Lucky Scoop Order | 15038 | 15547 | 1645 | 90 | Simulation
+up-and-coming | 14 | 10769941703 | 13 Days to Escape | 20101 | 13573 | 3373 | 80 | Survival
+up-and-coming | 15 | 10770504297 | Revolver Arena | 3785 | 9393 | 988 | 90 | Shooter
+up-and-coming | 16 | 10772114384 | Build a Bridge | 9512 | 58129 | 2439 | 96 | Simulation
+up-and-coming | 17 | 10773907070 | RoChess! | 4143 | 2118 | 598 | 78 | Strategy
+up-and-coming | 18 | 10772543706 | Sweep The Moon | 25730 | 103433 | 2552 | 98 | Simulation
+up-and-coming | 19 | 10771514327 | Bobby's Daycare | 4444 | 1518 | 206 | 88 | Survival
+up-and-coming | 20 | 10770749234 | Retro Football | 1397 | 695 | 200 | 78 | Sports & Racing
+up-and-coming | 21 | 10772648808 | Rarest Answer Party! | 6941 | 1690 | 1534 | 52 | Party & Casual
+up-and-coming | 22 | 10765476543 | State Connect | 3014 | 1242 | 514 | 71 | Simulation
+up-and-coming | 23 | 10771881861 | FERAL Animal Survival | 12310 | 9928 | 2403 | 81 | Roleplay & Avatar Sim
+up-and-coming | 24 | 10770707307 | Raise A Catboy | 9016 | 17156 | 2350 | 88 | Simulation
+up-and-coming | 25 | 10771421858 | DONT SPLASH | 41135 | 141856 | 22418 | 86 | Obby & Platformer
+up-and-coming | 26 | 10772749430 | My Cookie Store | 4698 | 6723 | 515 | 93 | Simulation
+up-and-coming | 27 | 10771053183 | Net a Fish! | 23143 | 10148 | 748 | 93 | Simulation
+up-and-coming | 28 | 10773425091 | Ragdoll Research | 14314 | 12584 | 2614 | 83 | Simulation
+up-and-coming | 29 | 10773262148 | Draw an aquarium | 4869 | 1673 | 678 | 71 | Simulation
+up-and-coming | 30 | 10772266488 | Build a REAL House | 14875 | 1594 | 525 | 75 | Simulation
+up-and-coming | 31 | 10768383600 | Ragdoll Playground | 11994 | 73530 | 4182 | 95 | Simulation
+up-and-coming | 32 | 10771362432 | Build and Sell Houses! | 3932 | 1358 | 477 | 74 | Simulation
+up-and-coming | 33 | 10770609435 | Jujutsu Farm | 5814 | 7884 | 219 | 97 | Simulation
+up-and-coming | 34 | 10771368987 | Tiny Skies | 5146 | 4769 | 1186 | 80 | Action
+up-and-coming | 35 | 10771805737 | Run a Motel ! | 6583 | 12762 | 798 | 94 | Simulation
+up-and-coming | 36 | 10773881289 | Blood Lab | 5331 | 1528 | 430 | 78 | Simulation
+up-and-coming | 37 | 10771517863 | Ragdoll Sword Battles | 1494 | 9060 | 5223 | 63 | Action
+up-and-coming | 38 | 10773277140 | Chess Duels | 2409 | 2691 | 580 | 82 | Strategy
+up-and-coming | 39 | 10772237634 | Symphony Orchestra Simulator | 649 | 1253 | 50 | 96 | Action
+up-and-coming | 40 | 10774646539 | Run a Christmas Tree Lot | 4092 | 3056 | 167 | 95 | Simulation
+up-and-coming | 41 | 10769621549 | Krillion Guess the Rarest Answer | 753 | 1965 | 1712 | 53 | Party & Casual
+up-and-coming | 42 | 10769969117 | Low Range: Offroad 4x4 | 11207 | 16809 | 1107 | 94 | Simulation
+up-and-coming | 43 | 10771544071 | Ragdoll Wars! | 6321 | 20610 | 1297 | 94 | Action
+up-and-coming | 44 | 10771350522 | Tavern Town | 3032 | 4854 | 382 | 93 | Simulation
+up-and-coming | 45 | 10772879271 | 30 Floors Up | 13750 | 13025 | 4040 | 76 | Survival
+up-and-coming | 46 | 10768158677 | SAURUS | 2359 | 2432 | 308 | 89 | Survival
+up-and-coming | 47 | 10771743491 | South Hell | 4735 | 12269 | 1691 | 88 | Survival
+up-and-coming | 48 | 10773031983 | That Is NOT My Mom | 3088 | 1528 | 636 | 71 | Survival
+up-and-coming | 49 | 10774557211 | Control a Ragdoll Together! | 1197 | 2171 | 105 | 95 | Obby & Platformer
+up-and-coming | 50 | 10771406194 | Flying Tesla Roadster | 4753 | 8848 | 5211 | 63 | Simulation
+up-and-coming | 51 | 10768677773 | Carolina Leaners | 4490 | 21652 | 678 | 97 | Simulation
+up-and-coming | 52 | 10771680162 | Can You Pass A Driving Test? | 14887 | 14235 | 2533 | 85 | Simulation
+up-and-coming | 53 | 10773355038 | Impact Lab: Extreme Physics! | 2158 | 4202 | 1491 | 74 | Simulation
+up-and-coming | 54 | 10772968523 | Impossible Hill Climb | 10674 | 7464 | 651 | 92 | Simulation
+up-and-coming | 55 | 10771576288 | First Person Basketball | 773 | 4304 | 342 | 93 | Sports & Racing
+up-and-coming | 56 | 10772169253 | Make a Drink | 2269 | 8196 | 266 | 97 | Simulation
+up-and-coming | 57 | 10771081056 | Doodle Basketball | 1047 | 10461 | 1616 | 87 | Sports & Racing
+up-and-coming | 58 | 10773014494 | DONT SWIM | 7386 | 4946 | 1624 | 75 | Obby & Platformer
+up-and-coming | 59 | 10773574214 | +1 Sukuna Evolution | 21964 | 1031 | 208 | 83 | Simulation
+up-and-coming | 60 | 10770699460 | Raise The Biggest Family | 13210 | 18747 | 6926 | 73 | Roleplay & Avatar Sim
+up-and-coming | 61 | 10771991516 | blind but dangerous | 2644 | 14069 | 3316 | 81 | Survival
+up-and-coming | 62 | 10772816442 | Make Soaps! | 1519 | 5693 | 636 | 90 | Simulation
+up-and-coming | 63 | 10772210273 | Into The Hive | 2113 | 2399 | 233 | 91 | Shooter
+up-and-coming | 64 | 10770779724 | Ragdoll Boxing 3D | 1939 | 8260 | 2931 | 74 | Action
+up-and-coming | 65 | 10770604649 | BloxNG Crash Physics | 5592 | 979 | 69 | 93 | Simulation
+up-and-coming | 66 | 10774204862 | Volley Bomb | 7821 | 4694 | 271 | 95 | Action
+up-and-coming | 67 | 10770228857 | Steal a Superpower! | 12830 | 314053 | 2775 | 99 | Simulation
+up-and-coming | 68 | 10771853697 | Project Web | 3756 | 12677 | 1008 | 93 | Action
+up-and-coming | 69 | 10772627574 | Cook Pizzas [Anomaly] | 6291 | 961 | 407 | 70 | Survival
+up-and-coming | 70 | 10770548748 | SF BIKE | 9475 | 4128 | 393 | 91 | Simulation
+up-and-coming | 71 | 10772200970 | +1 Glow Up Evolution | 7515 | 924 | 273 | 77 | Simulation
+up-and-coming | 72 | 10772490127 | Respect PVP | 1836 | 4510 | 467 | 91 | Shooter
+up-and-coming | 73 | 10768558548 | Run A Farm! | 9559 | 8448 | 495 | 94 | Simulation
+up-and-coming | 74 | 10775491401 | Light Up Christmas! | 1765 | 2779 | 61 | 98 | Simulation
+up-and-coming | 75 | 10772217708 | Tesla Roadster Chase | 5527 | 22890 | 3508 | 87 | Simulation
+up-and-coming | 76 | 10771269188 | Ragdoll Physics 2 | 3293 | 13302 | 5388 | 71 | Simulation
+up-and-coming | 77 | 10771577653 | Pass Your Driving Test | 876 | 92 | 423 | 18 | Simulation
+up-and-coming | 78 | 10772287037 | Facecard: Makeup Showdown | 6860 | 52343 | 1110 | 98 | Roleplay & Avatar Sim
+up-and-coming | 79 | 10769582272 | Okishima:1336 | 1683 | 2200 | 388 | 85 | Action
+up-and-coming | 80 | 10769487429 | Voxel Heroes | 3146 | 9670 | 457 | 95 | RPG
+up-and-coming | 81 | 10771340918 | Everveil | 660 | 3575 | 472 | 88 | Adventure
+up-and-coming | 82 | 10770198813 | Wacky Games | 4206 | 8013 | 2473 | 76 | Party & Casual
+up-and-coming | 83 | 10768613071 | Project Soul's | 2752 | 3506 | 548 | 86 | RPG
+up-and-coming | 84 | 10769724355 | Mad Chihuahua | 2149 | 20305 | 252 | 99 | Simulation
+up-and-coming | 85 | 10772041805 | Ragdoll MMA | 2182 | 4523 | 3769 | 55 | Action
+up-and-coming | 86 | 10768934595 | HEISTBLOX | 847 | 10220 | 1998 | 84 | Shooter
+up-and-coming | 87 | 10772422537 | Compliment | 1684 | 3153 | 714 | 82 | Party & Casual
+up-and-coming | 88 | 10770463307 | Stop The Tsunami! | 7337 | 295 | 168 | 64 |
+up-and-coming | 89 | 10774297264 | Peel a Potato | 2135 | 405 | 147 | 73 | Simulation
+up-and-coming | 90 | 10772716677 | Ant Wars | 2514 | 973 | 252 | 79 | Strategy
+up-and-coming | 91 | 10771507608 | My Small Business | 8611 | 46081 | 2069 | 96 | Simulation
+up-and-coming | 92 | 10772332388 | Dig & Collect | 2482 | 705 | 269 | 72 | Party & Casual
+up-and-coming | 93 | 10772284148 | Broodwing | 1552 | 11340 | 1143 | 91 | Roleplay & Avatar Sim
+up-and-coming | 94 | 10773059991 | Clean The Bugs | 4593 | 1220 | 206 | 86 | Adventure
+top-trending | 1 | 10772946647 | Do Not Stop. | 17200 | | | 90 |
+top-trending | 2 | 6331902150 | Forsaken | 64100 | | | 84 |
+top-trending | 3 | 9867225552 | A Bizarre Run | 13300 | | | 97 |
+top-trending | 4 | 10770575733 | Ragdoll Physics | 25900 | | | 89 |
+top-trending | 5 | 10766972131 | Throw Food For Animals | 166500 | | | 94 |
+top-trending | 6 | 10769671316 | Survive Your Ideas | 51100 | | | 88 |
+top-trending | 7 | 10773926254 | Bloody Ragdoll Physics | 30800 | | | 85 |
+top-trending | 8 | 10772281976 | Unstable SMP FFA | 25900 | | | 85 |
+top-trending | 9 | 10771743491 | South Hell | 4800 | | | 87 |
+top-trending | 10 | 321778215 | Royale High | 9000 | | | 85 |
+top-trending | 11 | 10767355485 | Closing Shift | 3100 | | | 90 |
+top-trending | 12 | 10772543706 | Sweep The Moon | 26000 | | | 97 |
+top-trending | 13 | 10771928551 | Cozy Lucky Scoop Order | 15200 | | | 90 |
+top-trending | 14 | 10773425091 | Ragdoll Research | 14400 | | | 82 |
+top-trending | 15 | 10770284142 | Night Rider | 10200 | | | 94 |
+top-trending | 16 | 10769941703 | 13 Days to Escape | 20200 | | | 80 |
+top-trending | 17 | 5578556129 | Vanguards: Trail of the Saint | 25200 | | | 96 |
+top-trending | 18 | 7671049560 | The Forge | 17000 | | | 94 |
+top-trending | 19 | 10773380485 | Ragdoll Realism | 8400 | | | 80 |
+top-trending | 20 | 10773259496 | Survive a Psycho | 2400 | | | 94 |
+top-trending | 21 | 10773618503 | Hyper Realistic Ragdoll | 32900 | | | 90 |
+top-trending | 22 | 10770707307 | Raise A Catboy | 9100 | | | 87 |
+top-trending | 23 | 10773912080 | The Ditch Hotel | 4600 | | | 89 |
+top-trending | 24 | 10771881861 | FERAL Animal Survival | 12300 | | | 80 |
+top-trending | 25 | 10772879271 | 30 Floors Up | 13700 | | | 76 |
+top-trending | 26 | 10772217708 | Tesla Roadster Chase | 5600 | | | 86 |
+top-trending | 27 | 3240075297 | Berry Avenue RP | 41700 | | | 86 |
+top-trending | 28 | 10770915307 | Ball Knowledge | 4200 | | | 66 |
+top-trending | 29 | 10769835283 | Depth Incremental | 19400 | | | 96 |
+top-trending | 30 | 7729422550 | obby but you get smaller every stage | 11300 | | | 33 |
+top-playing-now | 1 | 10563114921 | Steal An Egg | 470010 | 4157184 | 391551 | 91 |
+top-playing-now | 2 | 1686885941 | Brookhaven RP | 322032 | 8746121 | 1435389 | 86 |
+top-playing-now | 3 | 994732206 | Blox Fruits | 256988 | 12856448 | 1072115 | 92 |
+top-playing-now | 4 | 66654135 | Murder Mystery 2 | 179923 | 10924125 | 1107613 | 91 |
+top-playing-now | 5 | 10766972131 | Throw Food For Animals | 166481 | 96887 | 5760 | 94 |
+top-playing-now | 6 | 383310974 | Adopt Me! | 158000 | | | 86 |
+top-playing-now | 7 | 6035872082 | RIVALS | 94900 | | | 93 |
+top-playing-now | 8 | 7326934954 | 99 Nights in the Forest | 84700 | | | 90 |
+top-playing-now | 9 | 5569032992 | Dandy's World | 76100 | | | 88 |
+top-playing-now | 10 | 3508322461 | Jujutsu Shenanigans | 76000 | | | 86 |
+top-playing-now | 11 | 7709344486 | Steal a Brainrot | 73800 | | | 85 |
+top-playing-now | 12 | 3183403065 | Anime Adventures | 70600 | | | 92 |
+top-playing-now | 13 | 6331902150 | Forsaken | 64100 | | | 84 |
+top-playing-now | 14 | 6701277882 | Fish It! | 61800 | | | 82 |
+top-playing-now | 15 | 10765288803 | Break and Steal an Egg | 57900 | | | 97 |
+top-playing-now | 16 | 7219654364 | Murderers VS Sheriffs | 55200 | | | 86 |
+top-playing-now | 17 | 2711375305 | Catalog Avatar Creator | 54800 | | | 93 |
+top-playing-now | 18 | 10769671316 | Survive Your Ideas | 50900 | | | 88 |
+top-playing-now | 19 | 5750914919 | Fisch | 49500 | | | 90 |
+top-playing-now | 20 | 5203828273 | Dress To Impress | 48700 | | | 90 |
