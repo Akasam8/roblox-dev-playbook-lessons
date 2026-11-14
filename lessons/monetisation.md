@@ -21,3 +21,7 @@
 ## Product ideas
 
 - **Turn playtester wishes into starter packs and boosts.** Watch full playthroughs and note anything testers say takes too long or they wish they had earlier; offer those as optional speed-ups, starter packs or deals while keeping the game fair to play for free. — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7702538128631827733), 2026-10-30
+
+## Payouts
+
+- **Know the DevEx rate and the 18+ bonus.** Robux converts to cash at a fixed rate, not 1:1: the standard rate cited is $0.0038 per Robux (30,000 Robux is about $114), while the 18+ rate cited is $0.0054 (about $162). The higher rate needs R15 avatars and purchases from verified 18+ players on game passes, dev products, subscriptions, private servers or paid access, so don't assume every sale earns it. *(Time-sensitive: check Roblox's current rules.)* (x2) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7707846692657302814), 2026-11-14; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7707848191818943757), 2026-11-14
