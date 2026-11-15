@@ -18,6 +18,8 @@
 
 ## Reading analytics
 
+- **Let analytics tell you what is missing.** Average playtime under about 12 minutes suggests the content isn't engaging enough, so add or update something; weak day-1 to day-7 retention suggests there isn't enough to bring players back. Treat the numbers as a story about the game, not just stats. — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7708225053195914527), 2026-11-15
+
 - **Low D1 retention with long playtime means fix the first minutes.** If day-1 retention is poor but average session is high (one launch: about 21 min across 188 new users), the mid/late game works and onboarding is the problem. Check the dashboards daily, and especially when CCU spikes or crashes, to learn what caused it. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690375469467831583), 2026-09-28; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7690776334439648543), 2026-09-29; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691159115577543966), 2026-09-30; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7700094055648218399), 2026-10-24
 
 - **Chase engaged players, not raw CCU.** A smaller crowd (say 200 CCU) that invests time, invites friends and spends Robux beats a bigger one (1000 CCU) that churns straight through. Strong engagement signals tell Roblox the game is worth promoting, which can lead to homepage placement and a higher average CCU later. — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7707396427797892373), 2026-11-12
