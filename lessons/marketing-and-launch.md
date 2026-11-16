@@ -45,6 +45,7 @@
 ## Ad creatives
 
 - **Test 3 thumbnails, keep those above 3% CTR.** Launch a campaign with three thumbnails in different styles, let it run about 24 hours to exit learning, then cut anything under about 3% CTR and remake the losers in the winning style. One dev reached 5.3% CTR on plays ads and about 4% on engagement ads after repeated testing. (x5) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7692242898783358238), 2026-10-03; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7694861509326884126), 2026-10-10; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7695969406794337566), 2026-10-13; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7698782236069530901), 2026-10-20; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7701345683445402900), 2026-10-27
+- **Two-stage ad campaign: small test, then scale only the winners.** Run a small-budget test for 3-4 days, wait about 24 hours for stats to settle, and keep only creatives with at least ~4% CTR. Put the 3 or so winners in a fresh campaign at the real budget (about 12-18 USD/ad credits a day), then read your playthrough rate and fix the experience page or game intro if it's weak. *(Time-sensitive: check Roblox's current rules.)* — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7708509737687551252), 2026-11-15
 
 ## Ad types
 
