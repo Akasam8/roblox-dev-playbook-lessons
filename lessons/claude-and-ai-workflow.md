@@ -39,6 +39,7 @@
 ## AI games
 
 - **AI-built games still need deliberate design and polish.** AI implements your ideas but doesn't supply a storyboard, core loop or polish; study successful games' core systems, sound and retention hooks, and take time instead of shipping a week-old build. Obvious AI slop scares players away. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691557200476556575), 2026-10-01; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7691880841060076830), 2026-10-02; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7692566112361286943), 2026-10-03; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7698438977153436948), 2026-10-19
+- **Have an agent hunt for AI giveaways in your game.** Tell it to act as a skeptical 16-year-old who assumes every game is AI-made and list each visual tell (generic UIs, inconsistent art styles, 3D models that clash with the look), then fix the biggest ones until the game has its own identity and consistent polish. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709030206668934431), 2026-11-17
 
 ## Tool choice
 
@@ -61,6 +62,8 @@
 ## Art and models
 
 - **Use Blender MCP for AI-made models and animations.** Connect Blender to Claude Code or Codex through a Blender MCP so the AI can generate 3D models and animations, then import them into Studio. (x2) — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7695496071425821982), 2026-10-11; @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7702943456968150302), 2026-10-31
+- **Run a generator-and-critic loop on weak models.** Ask an agent to find models with bad proportions, low-quality textures or off-style looks, generate better visual references with an image AI, then use a separate critic agent to compare each model to its reference and keep revising until the critic passes it. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709035596139744543), 2026-11-17
+- **AI can make UGC items too.** Besides games, creators use AI to produce UGC skins and avatar items and profit from them, which is why new items keep appearing. *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7708955171702721805), 2026-11-17
 
 ## Studio tools
 

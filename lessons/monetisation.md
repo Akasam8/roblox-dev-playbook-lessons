@@ -4,7 +4,7 @@
 
 ## Shop design
 
-- **Lay out the shop like a successful mobile game store.** Each product's value should be clear at a glance (obvious benefit, price anchoring, highlighted best value). Claude can redesign the shop using those layout principles. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705150744382491934), 2026-11-06
+- **Lay out the shop like a successful mobile game store.** Each product's value should be clear at a glance (obvious benefit, price anchoring, highlighted best value). Claude can redesign the shop using those layout principles. A fast-food-menu variant: have the agent study how menus use visual hierarchy, placement and few simple choices, audit your shop for confusing layouts, too many options and hard-to-compare items, then redesign so each item's function, cost and appeal are instantly clear. (x2) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705150744382491934), 2026-11-06; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709041052065221918), 2026-11-17
 
 ## Shop and upgrades
 

@@ -48,6 +48,7 @@
 ## Playtesting
 
 - **Use blind playtesters, because you are biased toward your idea.** Just tell testers to join, with no explanation of how it works, then watch and listen to where they get stuck. Run several rounds (friends first, then a small Discord group of about 16), and you can thank testers with exclusive in-game items. (x4) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7684777540556164366), 2026-09-12; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7688910216959642911), 2026-09-24; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7699309259892231455), 2026-10-22; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7699914814478454037), 2026-10-23
+- **Pre-publish checklist.** Before release: play the first 5 minutes yourself to check onboarding explains what to do, test on every platform (mobile, console, VR), make the icon and thumbnail enticing, make sure the core loop makes players want to grind, and try to break the game yourself so you patch major bugs and exploits before players find them. — @adamdoesroblox, [video](https://www.tiktok.com/@adamdoesroblox/video/7708852565819018526), 2026-11-16
 
 ## Finding ideas
 
