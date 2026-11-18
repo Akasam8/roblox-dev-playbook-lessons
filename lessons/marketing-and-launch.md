@@ -65,3 +65,7 @@
 ## Reveals
 
 - **Hold back full gameplay reveals until near launch.** Showing all the mechanics too early lets others copy the idea quickly with AI; tease pieces, then post gameplay showcases once the game is close to final so you can follow up with content immediately. — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7687807546677136670), 2026-09-21
+
+## Trailers
+
+- **Have an agent build a 30-second cinematic trailer in Studio.** Ask for custom character animations, scripted camera moves and shots of your best features, then use an AI music tool (e.g. Suno) for a custom soundtrack. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709377315670592798), 2026-11-18

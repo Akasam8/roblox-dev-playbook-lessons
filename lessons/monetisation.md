@@ -25,3 +25,7 @@
 ## Payouts
 
 - **Know the DevEx rate and the 18+ bonus.** Robux converts to cash at a fixed rate, not 1:1: the standard rate cited is $0.0038 per Robux (30,000 Robux is about $114), while the 18+ rate cited is $0.0054 (about $162). The higher rate needs R15 avatars and purchases from verified 18+ players on game passes, dev products, subscriptions, private servers or paid access, so don't assume every sale earns it. *(Time-sensitive: check Roblox's current rules.)* (x2) — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7707846692657302814), 2026-11-14; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7707848191818943757), 2026-11-14
+
+## Benchmarks
+
+- **Sanity-check earnings against your CCU.** One creator's rough monthly Robux guide: ~100 CCU earns roughly 5k–25k, ~500 CCU 25k–150k, ~2,000 CCU 200k–1M, and 10k+ CCU about 1.5M–5M. If you earn well below your band, look at the shop, pricing and offers. (Figures from a noisy transcript; treat as ballpark.) *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7709336920676945166), 2026-11-18
