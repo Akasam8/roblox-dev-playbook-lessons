@@ -16,6 +16,7 @@
 
 ## Fair monetisation
 
+- **Show shop offers only when they're relevant, not as join pop-ups.** Remove shop pop-ups that fire on every join; trigger an offer at a moment of need, such as a full inventory or a lost fight. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710003524301622558), 2026-11-19
 - **Never paywall what the core loop needs.** Core mechanics such as sprint or jump must be free; passes should add extra value (accessories, bonus items) on top of a complete free game, which keeps players long enough to spend. — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7698567051547364638), 2026-10-20
 
 ## Product ideas

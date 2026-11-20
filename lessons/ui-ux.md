@@ -5,6 +5,8 @@
 ## Game feel
 
 - **Every action needs visible feedback.** Purchases, upgrades and completed tasks should all respond with clear visual (ideally audio too) feedback. Have Claude audit the game for actions that give none. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705152064304729375), 2026-11-06
+- **Give every weapon its own feel via recoil, shake, aim speed and sound.** Ask an agent for a weapon system that scales recoil, camera shake, aim speed and sound with each weapon's weight and power, then have it playtest and tune each gun so they feel clearly different. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709997598370794765), 2026-11-19
+- **Randomise sound pitch slightly so repeats don't grate.** Vary the pitch of frequent sounds (hits, footsteps, pickups) within roughly 0.92-1.08 so the same clip never plays identically twice. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710016283063962911), 2026-11-19
 
 ## Menus
 
@@ -12,7 +14,7 @@
 
 ## Low-attention clarity
 
-- **Make key events readable with sound off and half attention.** Simulate a kid playing muted or while watching YouTube on another screen; any event they would miss needs stronger visual feedback, and moments demanding too much focus need to be clearer. (x2) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703734108890860831), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703737698179108126), 2026-11-03
+- **Make key events readable with sound off and half attention.** Simulate a kid playing muted or while watching YouTube on another screen; any event they would miss needs stronger visual feedback (a flash, screen shake or pop on every hit, pickup and death), and moments demanding too much focus need to be clearer. (x3) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703734108890860831), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703737698179108126), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710001237931871518), 2026-11-19
 
 ## Mobile first
 
