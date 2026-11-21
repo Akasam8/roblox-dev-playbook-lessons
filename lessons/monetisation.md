@@ -30,3 +30,9 @@
 ## Benchmarks
 
 - **Sanity-check earnings against your CCU.** One creator's rough monthly Robux guide: ~100 CCU earns roughly 5k–25k, ~500 CCU 25k–150k, ~2,000 CCU 200k–1M, and 10k+ CCU about 1.5M–5M. If you earn well below your band, look at the shop, pricing and offers. (Figures from a noisy transcript; treat as ballpark.) *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7709336920676945166), 2026-11-18
+
+## Roblox platform changes
+
+- **Offer game pass trials so players try before they buy.** Roblox is adding Game Pass Trials (announced for Dec 2): you can let players use a pass temporarily, e.g. an auto-clicker for five minutes, and they buy it if they like it. Consider which passes sell best once felt, and make the trial long enough to show the value. *(Time-sensitive: check Roblox's current rules.)* (x2) — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7710363152839363860), 2026-11-20; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7710450989714722079), 2026-11-21
+- **Roblox Wallet should make payouts faster and smaller-threshold.** As presented, it pays in USD directly, takes about one business day, has a $5 minimum and allows daily withdrawals, versus DevEx's 7-14 day wait, $105 minimum and monthly schedule. Plan cash flow around it once it launches, but wait for the real rollout details. *(Time-sensitive: check Roblox's current rules.)* — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7710441156248734997), 2026-11-21
+- **Avatar backgrounds are a new sellable UGC item.** Roblox added the option to make and sell avatar backgrounds on the Marketplace, another small revenue stream for creators. *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7710450989714722079), 2026-11-21

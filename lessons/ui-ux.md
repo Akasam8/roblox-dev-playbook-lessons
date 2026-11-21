@@ -37,3 +37,4 @@
 ## Atmosphere
 
 - **Add dynamic weather that fades in and changes gameplay.** Have an agent build rain, thunderstorms, fog and snow that blend gradually instead of switching instantly, and tie them to gameplay (wet surfaces slippery, fog cuts visibility, lightning briefly lights the map) so weather is more than decoration. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7709399792899640589), 2026-11-18
+- **Make every map angle screenshot-worthy.** Have an agent act like a kid taking screenshots to show friends, find angles where the map looks empty or boring, then improve backgrounds and scenery until each view is worth sharing. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710531212598725919), 2026-11-21
