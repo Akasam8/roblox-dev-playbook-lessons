@@ -13,6 +13,7 @@
 ## Competitor research
 
 - **Study how top games monetise, then pick buildable features.** Have an agent analyse the monetisation of hit games like Blox Fruits and Steal a Brainrot, let several agents debate which approach fits your game, and come out with three specific features you can actually build. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7704374814928145695), 2026-11-04
+- **Mine the top 5 competitors' reviews for gaps to exploit.** Have an agent find the five biggest games competing with yours, research what their players love, what they keep complaining about and which features are missing, then build your game as the better alternative on those weaknesses. — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710543158366506270), 2026-11-21
 
 ## Fair monetisation
 
@@ -34,5 +35,5 @@
 ## Roblox platform changes
 
 - **Offer game pass trials so players try before they buy.** Roblox is adding Game Pass Trials (announced for Dec 2): you can let players use a pass temporarily, e.g. an auto-clicker for five minutes, and they buy it if they like it. Consider which passes sell best once felt, and make the trial long enough to show the value. *(Time-sensitive: check Roblox's current rules.)* (x2) — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7710363152839363860), 2026-11-20; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7710450989714722079), 2026-11-21
-- **Roblox Wallet should make payouts faster and smaller-threshold.** As presented, it pays in USD directly, takes about one business day, has a $5 minimum and allows daily withdrawals, versus DevEx's 7-14 day wait, $105 minimum and monthly schedule. Plan cash flow around it once it launches, but wait for the real rollout details. *(Time-sensitive: check Roblox's current rules.)* — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7710441156248734997), 2026-11-21
+- **Roblox Wallet should make payouts faster and smaller-threshold.** As presented, it pays in USD directly, takes about one business day, has a $5 minimum and allows daily withdrawals of any amount (DevEx allows one cash-out a month, 12 a year), versus DevEx's 7-14 day wait, $105 minimum and monthly schedule. Plan cash flow around it once it launches, but wait for the real rollout details. *(Time-sensitive: check Roblox's current rules.)* (x2) — @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7710441156248734997), 2026-11-21; @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7710803915679272223), 2026-11-22
 - **Avatar backgrounds are a new sellable UGC item.** Roblox added the option to make and sell avatar backgrounds on the Marketplace, another small revenue stream for creators. *(Time-sensitive: check Roblox's current rules.)* — @dsrstudiorblx, [video](https://www.tiktok.com/@dsrstudiorblx/video/7710450989714722079), 2026-11-21
