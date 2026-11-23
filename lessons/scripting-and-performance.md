@@ -4,7 +4,7 @@
 
 ## Optimisation
 
-- **Have Claude find your heaviest models.** Ask the agent to list the ~10 most performance-heavy models in the place and suggest optimisations that keep their look (part count, collisions, mesh/texture size, CastShadow). — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705148037508762910), 2026-11-06
+- **Have Claude find your heaviest models.** Ask the agent to list the ~10 most performance-heavy models in the place and suggest optimisations that keep their look: simplify collisions, turn off unnecessary shadows (CastShadow), lower detail on distant objects, merge parts that never move separately, and trim part count and mesh/texture size. Test performance before and after and log what improved. (x2) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7705148037508762910), 2026-11-06; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710962494893722911), 2026-11-22
 
 ## Security
 
