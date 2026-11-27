@@ -14,7 +14,7 @@
 
 ## Low-attention clarity
 
-- **Make key events readable with sound off and half attention.** Simulate a kid playing muted or while watching YouTube on another screen; any event they would miss needs stronger visual feedback (a flash, screen shake or pop on every hit, pickup and death), and moments demanding too much focus need to be clearer. (x3) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703734108890860831), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703737698179108126), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710001237931871518), 2026-11-19
+- **Make key events readable with sound off and half attention.** Simulate a kid playing muted or while watching YouTube on another screen; any event they would miss needs stronger visual feedback (a flash, screen shake or pop on every hit, pickup and death), and moments demanding too much focus need to be clearer. Test the reverse too: with headphones on and volume up, a weak experience means the audio needs fixing, so fill the game with sound effects. (x4) — @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703734108890860831), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7703737698179108126), 2026-11-03; @momentumcash, [video](https://www.tiktok.com/@momentumcash/video/7710001237931871518), 2026-11-19; @isaacrocreate, [video](https://www.tiktok.com/@isaacrocreate/video/7712588790010826005), 2026-11-26
 
 ## Mobile first
 
